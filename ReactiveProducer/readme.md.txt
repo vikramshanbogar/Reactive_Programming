@@ -1,0 +1,2 @@
+- Create a table with persons data included in the code(csv file)
+- This application will stream the data at 2 second interval in reactive manner.
